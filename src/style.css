@@ -1,9 +1,21 @@
+body{
+background-color: rgb(249, 255, 144);
+}
+
 h1{
-    color: purple;
+    color: rgb(245, 158, 27);
     font-size: 50px;
 }
 
 
 img{
-    width: auto;
+    height: 450px;
+    display: block;
+    margin: 25px auto;
+    border-radius: 5px;
+    
+}
+
+a{
+    color:rgb(215, 140, 0);
 }
